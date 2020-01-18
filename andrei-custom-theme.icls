@@ -1,15 +1,15 @@
 <scheme name="Andrei's Custom Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-06T17:55:03</property>
+    <property name="created">2020-01-18T15:13:37</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-06T17:55:09</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2020-01-18T15:13:44</property>
     <property name="originalScheme">Andrei's Custom Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
